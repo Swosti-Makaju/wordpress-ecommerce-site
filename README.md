@@ -10,3 +10,6 @@ This repo contains WordPress theme and database for my ecommerce project"Electro
 5. Activate the theme from WordPress dashboard.
 
 Enjoy! 💖
+
+Download the full project (ZIP) here:[Google Drive Link]
+(https://drive.google.com/drive/folders/1vMVKnABflY2BX01RGBdlhoCw1agp3Yy8?usp=drive_link)
